@@ -1,0 +1,4 @@
+replicas: 2
+
+image:
+  tag: 3.2.1-SNAPSHOT

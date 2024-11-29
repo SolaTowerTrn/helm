@@ -1,4 +1,4 @@
 image:
   repository: "spring-petclinic"
 
-replicas: 2
+replicas: 1
